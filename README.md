@@ -1,6 +1,6 @@
 # FloatingWaste-I Dataset
 
-The FloatingWaste-I dataset is a multicategory floating-waste dataset containing bottles and cartons, which are two common types of domestic waste found on water. During~the data-collection phase, we used an unmanned surface vehicle equipped with a DJI Pocket2 motion camera to cruise around the four lakes on the campus of Guangxi University. The~FloatingWaste-I dataset was acquired in three time periods: midday, evening and night. As~shown in Figure~\ref{fig8}, the~unmanned surface vehicle used in this paper mainly consists of a hull-power module, wireless control and other modules. After~installing the DJI Pocket2 motion camera, we controlled the unmanned surface vehicle to cruise the lake to photograph floating waste. In~the data-annotation phase, we used labeling to annotate the data. To~create the labels, we used rectangular boxes to completely cover the objects, labeled, respectively, ``carton'' and ``bottle''. In~line with FloW-img, we do not mark the object reflection inside the label~area.
+The FloatingWaste-I dataset is a multicategory floating-waste dataset containing bottles and cartons. We used an unmanned surface vehicle equipped with a DJI Pocket2 motion camera to cruise around the four lakes on the campus of Guangxi University. The FloatingWaste-I dataset was acquired in three time periods: midday, evening and night. We used labeling to annotate the data. The annotions contain ``carton'' and ``bottle''.
 
 Cite the paper：
 

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>493.jpg</filename>
+	<path>E:\Graduate_file\dataset\images\493.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1034</xmin>
+			<ymin>447</ymin>
+			<xmax>1049</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

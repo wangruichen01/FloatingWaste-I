@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>117.jpg</filename>
+	<path>E:\Graduate_file\dataset\images\117.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>carton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>309</xmin>
+			<ymin>389</ymin>
+			<xmax>322</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>
